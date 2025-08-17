@@ -1,8 +1,8 @@
 import { Routes, Route } from "react-router-dom";
-import Navbar from "./components/navbar.jsx";
-import Home from "./pages/home";
-import About from "./pages/About";
-import Contact from "./pages/Contact";
+import Navbar from "./components/Header.jsx";
+import Home from "./pages/Home.jsx";
+import About from "./pages/About.jsx";
+import Contact from "./pages/Contact.jsx";
 import SignUp from "./pages/signup.jsx";
 import { useState } from "react";
 import Footer from "./components/footer.jsx";
