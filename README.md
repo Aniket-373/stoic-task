@@ -1,12 +1,51 @@
-# React + Vite
+📂 Project Structure:
+my-project/
+│── 🌐 public/ -> Static assets
+│── 📁 src/
+│ ├── 🧩 components/ -> Reusable components (Navbar, Footer, etc.)
+│ ├── 📄 pages/ -> Page components (Home, Login, Signup)
+│ ├── ⚛️ App.js -> Root component
+│ ├── 🚀 index.js -> Entry point
+│ └── 🎨 styles/ -> Custom CSS (if needed)
+│
+│── 📑 package.json -> Dependencies and scripts
+│── 🎨 tailwind.config.js -> Tailwind config
+│── ⚙️ postcss.config.js -> PostCSS config
+│── 📘 README.md -> Project documentation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+⚙️ Installation & Setup:
+1️⃣ Clone the repository
+git clone https://github.com/your-username/my-project.git
+cd my-project
 
-Currently, two official plugins are available:
+2️⃣ Install dependencies
+npm install
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3️⃣ Start the development server
+npm start
 
-## Expanding the ESLint configuration
+4️⃣ Build for production
+npm run build
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Tech Stack:
+
+⚛️ React.js (Frontend)
+
+🎨 Tailwind CSS (Styling)
+
+🛤️ React Router (Routing)
+
+✨ Features:
+
+⚡ Fast development setup
+
+💻 Modern UI with Tailwind
+
+📱 Responsive design
+
+🔑 Login/Signup pages included
+
+🧩 Reusable components (Navbar, Footer, etc.)
+
+🤝 Contributing:
+Fork this repo and submit pull requests.
