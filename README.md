@@ -39,6 +39,7 @@ Build for production:
 npm run build
 
 ##🛠️ Tech Stack
+
 ⚛️ React.js
 🎨 Tailwind CSS
 🛤️ React Router
@@ -48,7 +49,9 @@ npm run build
 🔑 Authentication-ready pages (Login/Signup)
 🧩 Reusable components
 
+
 ## 🤝 Contributing
+
 🍴 Fork this repo
 🌿 Create a new branch (git checkout -b feature-branch)
 ✨ Make changes
@@ -57,6 +60,4 @@ npm run build
 
 ---
 
-👉 You can just copy-paste this directly into your `README.md`.  
 
-Do you also want me to add a **Demo section with a live link & badges** (for deployment like Netlify/Vercel)?
