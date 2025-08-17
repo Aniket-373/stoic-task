@@ -1,3 +1,5 @@
+---
+
 # ⚛️ Landing Page
 
 A modern web application built with **React.js** and **Tailwind CSS** 🚀  
@@ -56,4 +58,5 @@ A modern web application built with **React.js** and **Tailwind CSS** 🚀
 -**✨ Make changes**
 -**🚀 Open a Pull Request**
 
+---
 
