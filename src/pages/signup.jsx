@@ -34,7 +34,7 @@ export default function SignUp({ onSignup }) {
   <div className="flex items-center justify-center min-h-screen p-4">
     <form
       onSubmit={handleSubmit}
-      className="bg-white bg-opacity-90 p-6 rounded-xl shadow-md w-full max-w-md"
+      className=" bg-opacity-90 p-6 rounded-xl shadow-md w-full max-w-md"
     >
       <h2 className="text-2xl mb-4 text-center font-extrabold text-emerald-600">
         Sign Up
