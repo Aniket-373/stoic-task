@@ -5,7 +5,7 @@ import About from "./pages/About.jsx";
 import Contact from "./pages/Contact.jsx";
 import SignUp from "./pages/signup.jsx";
 import { useState } from "react";
-import Footer from "./components/footer.jsx";
+import Footer from "./components/Footer.jsx";
 
 function App() {
   const [users, setUsers] = useState([]);
