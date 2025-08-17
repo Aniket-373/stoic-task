@@ -25,13 +25,17 @@ my-project/
 ---
 Clone the repo:
 git clone https://github.com/Aniket-373/stoic-task.git
-cd my-project
+cd my-app
+
 Install dependencies:
 npm install
+
 Run locally:
 npm start
+
 Build for production:
 npm run build
+
 ---
 
 ## 🛠️ Tech Stack
