@@ -26,7 +26,7 @@ my-project/
 ## ⚙️ Installation
 
 Clone the repo:
-git clone https://github.com/your-username/my-project.git
+git clone https://github.com/Aniket-373/stoic-task.git
 cd my-project
 
 Install dependencies:
